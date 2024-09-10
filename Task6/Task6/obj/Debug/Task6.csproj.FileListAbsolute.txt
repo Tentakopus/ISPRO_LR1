@@ -1,0 +1,20 @@
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\Task6\bin\Debug\Task6.exe.config
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\Task6\bin\Debug\Task6.exe
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\Task6\bin\Debug\Task6.pdb
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\Task6\obj\Debug\Task6.Form1.resources
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\Task6\obj\Debug\Task6.Properties.Resources.resources
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\Task6\obj\Debug\Task6.csproj.GenerateResource.cache
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\Task6\obj\Debug\Task6.exe
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\Task6\obj\Debug\Task6.pdb
+E:\3-й курс\УП\Задание 6\Task6\Task6\bin\Debug\Task6.exe.config
+E:\3-й курс\УП\Задание 6\Task6\Task6\bin\Debug\Task6.exe
+E:\3-й курс\УП\Задание 6\Task6\Task6\bin\Debug\Task6.pdb
+E:\3-й курс\УП\Задание 6\Task6\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+E:\3-й курс\УП\Задание 6\Task6\Task6\obj\Debug\Task6.Form1.resources
+E:\3-й курс\УП\Задание 6\Task6\Task6\obj\Debug\Task6.Properties.Resources.resources
+E:\3-й курс\УП\Задание 6\Task6\Task6\obj\Debug\Task6.csproj.GenerateResource.cache
+E:\3-й курс\УП\Задание 6\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+E:\3-й курс\УП\Задание 6\Task6\Task6\obj\Debug\Task6.exe
+E:\3-й курс\УП\Задание 6\Task6\Task6\obj\Debug\Task6.pdb

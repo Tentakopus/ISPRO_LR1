@@ -1,0 +1,40 @@
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\Task6.exe
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\Task6.pdb
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\Task6.exe.config
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\УП 01.01\Практика 3-й курс 2024\Решения\Task6\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\Task6.exe
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\Task6.pdb
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\Task6.exe.config
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\alexe\Desktop\Финал2\Task6\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
